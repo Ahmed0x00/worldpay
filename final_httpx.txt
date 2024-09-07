@@ -1,7 +1,3 @@
-
-
-
-
 http://100338priv.ebanking-services.com [[33m301[0m] [[35m0[0m]
 https://1919ic-ecm.fisglobal.com [[32m200[0m] [[35m8[0m]
 http://1stnb.olb.fisglobal.com [[33m302[0m] [[35m0[0m]
@@ -740,10 +736,6 @@ https://sit-sf-cax.fisglobal.com [[31m403[0m] [[35m386[0m] [[36mAccess Deni
 https://site-147-249-242-243.fisglobal.com [[32m200[0m] [[35m5001[0m] [[36mXSPRISA[0m]
 https://100004prov.ebanking-services.com [[32m200[0m] [[35m8[0m]
 https://100338priv.ebanking-services.com [[32m200[0m] [[35m8[0m]
-
-
-
-
 https://100338priv.ebanking-services.com [[32m200[0m] [[35m8[0m]
 https://a-sms-uat.fisglobal.com [[32m200[0m] [[35m8[0m]
 https://abcuat.fisglobal.com [[32m200[0m] [[35m8[0m]
@@ -979,10 +971,6 @@ http://hwb-d1-uat-hosting-temenos.fisglobal.com [[32m200[0m] [[35m51[0m]
 http://hwb-d1-gateway.fisglobal.com [[32m200[0m] [[35m51[0m]
 http://hwb-d1-sit-okta-temenos.fisglobal.com [[31m403[0m] [[35m407[0m] [[36mAccess Denied[0m]
 http://hwb-d1-trn-teller-temenos.fisglobal.com [[31m403[0m] [[35m409[0m] [[36mAccess Denied[0m]
-
-
-
-
 https://a-sms-uat.fisglobal.com [[32m200[0m] [[35m8[0m]
 http://ab.ebanking-services.com [[31m403[0m] [[35m380[0m] [[36mAccess Denied[0m]
 https://acbscitrixpublicuat.fisglobal.com [[1;33m503[0m] [[35m299[0m] [[36m503 Service Unavailable[0m]
